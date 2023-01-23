@@ -1,2 +1,2 @@
 # Game-Dev-projects
-This is a repository dedicated to any Game Development projects worked on.
+This is a branch that shows off 2 micro projects involving the use of visual effects with a bomb and torch.
