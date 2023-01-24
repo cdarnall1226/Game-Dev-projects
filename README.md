@@ -1,3 +1,3 @@
 # Game-Dev-projects
-This is a repository dedicated to any Game Development projects worked on.
-This will be updated over time as more projects are created and recorded.
+This is a demo showcasing a prototype of the Sentinel Shield from Destiny 2. 
+It uses a combination of arrays and collision detection to be able to bounce an object between objects and change them to a ragdoll state.
